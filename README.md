@@ -42,7 +42,7 @@ The objective was to transform messy transactional data into a **clean, reliable
 # 🧹 Data Cleaning Methodology
 
 
-## 1️⃣ Data Profiling & Initial Assessment
+## 1. Data Profiling & Initial Assessment
 
 ### What was done:
 
